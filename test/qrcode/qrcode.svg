@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" width="660" height="660">
+    <desc></desc>
+    <defs>
+        <linearGradient id="lGradient">
+            <stop offset="5%" stop-color="#F60" />
+            <stop offset="95%" stop-color="#FF6" />
+        </linearGradient>
+        <radialGradient id="rGradient" gradientUnits="userSpaceOnUse"
+                      cx="400" cy="200" r="600" fx="400" fy="200">
+            <stop offset="0%" stop-color="red" />
+            <stop offset="50%" stop-color="blue" />
+            <stop offset="100%" stop-color="red" />
+        </radialGradient>
+        <rect id="p" width="20" height="16" rx="2" ry="2" transform="rotate(-45, 10, 8)" fill="#000"/>
+        <g id="star" fill="rgb(0, 0, 0)">
+            <rect x="0" y="0" width="140" height="140" fill='transparent'/>
+            <path x="0" y="0" d="M0 0 v140 h140 v-140 h-140Z M15 15 a300 300 0 0 0 110 0 a300 300 0 0 0 0 110 a300 300 0 0 0 -110 0 a300 300 0 0 0 0 -110Z" />
+            <path x="40" y="40" d="M40 40 a80 80 0 0 0 60 0 a80 80 0 0 0 0 60 a80 80 0 0 0 -60 0 a80 80 0 0 0 0 -60Z" />
+        </g>
+        <g id="dent-square" fill="rgb(0, 0, 0)">
+            <rect x="0" y="0" width="140" height="140" fill='transparent'/>
+            <path x="0" y="0" d="M0 0 a818 818 0 0 0 140 0 a818 818 0 0 0 0 140 a818 818 0 0 0 -140 0 a818 818 0 0 0 0 -140Z
+                M20 20 a418 418 0 0 0 100 0 a418 418 0 0 0 0 100 a418 418 0 0 0 -100 0 a418 418 0 0 0 0 -100Z" fill-rule="evenodd"/>
+            <path x="40" y="40" d="M40 40 a50 50 0 0 0 60 0 a50 50 0 0 0 0 60 a50 50 0 0 0 -60 0 a50 50 0 0 0 0 -60Z" />
+        </g>
+        <g id="diamond" fill="rgb(0, 0, 0)">
+            <rect x="0" y="0" width="140" height="140" fill='transparent'/>
+            <path x="0" y="0" d="M0 0 h110 l30 30 v110 h-110 l-30 -30 v-110Z
+                M20 20 h82 l18 18 v82 h-82 l-18 -18 v-82Z" fill-rule="evenodd"/>
+            <path x="40" y="40" d="M40 40 h30 l30 30 v30 h-30 l-30 -30 v-30Z" />
+        </g>
+        <g id="shield" fill="rgb(0, 0, 0)">
+            <rect x="0" y="0" width="140" height="140" fill='transparent'/>
+            <path x="0" y="0" d="M0,10 a250,250 0 0 0 70,-10 a250,250 0 0 0 70,10 a180,180 0 0 0 0,120 a250,250 0 0 1 -140,0 a180,180 0 0 0 0,-120Z
+                M20,25 a130,130 0 0 0 50,-10 a130,130 0 0 0 50,10 a180,180 0 0 0 0,95 a180,180 0 0 1 -100,0 a180,180 0 0 0 0,-95Z" fill-rule="evenodd"
+                />
+            <path x="40" y="40" d="M40,45 a95,95 0 0 0 30,-5 a95,95 0 0 0 30,5 a95,95 0 0 0 0,55 a95,95 0 0 1 -60,0 a95,95 0 0 0 0,-55Z"
+                fill="rgb(0, 0, 0)" />
+        </g>
+    </defs>
+    <rect width="660" height="660" fill="#fff" cx="0" cy="0" />
+    <g xmlns="http://www.w3.org/2000/svg">
+        <use x="120" y="120" xlink:href="#shield" />
+        <use x="300" y="120" xlink:href="#p" />
+        <use x="340" y="120" xlink:href="#p" />
+        <use x="360" y="120" xlink:href="#p" />
+        <use x="400" y="120" xlink:href="#shield" />
+        <use x="300" y="140" xlink:href="#p" />
+        <use x="320" y="140" xlink:href="#p" />
+        <use x="340" y="140" xlink:href="#p" />
+        <use x="280" y="160" xlink:href="#p" />
+        <use x="300" y="160" xlink:href="#p" />
+        <use x="340" y="160" xlink:href="#p" />
+        <use x="360" y="160" xlink:href="#p" />
+        <use x="300" y="180" xlink:href="#p" />
+        <use x="340" y="180" xlink:href="#p" />
+        <use x="320" y="200" xlink:href="#p" />
+        <use x="360" y="200" xlink:href="#p" />
+        <use x="360" y="220" xlink:href="#p" />
+        <use x="280" y="240" xlink:href="#p" />
+        <use x="320" y="240" xlink:href="#p" />
+        <use x="360" y="240" xlink:href="#p" />
+        <use x="280" y="260" xlink:href="#p" />
+        <use x="300" y="260" xlink:href="#p" />
+        <use x="340" y="260" xlink:href="#p" />
+        <use x="360" y="260" xlink:href="#p" />
+        <use x="120" y="280" xlink:href="#p" />
+        <use x="140" y="280" xlink:href="#p" />
+        <use x="160" y="280" xlink:href="#p" />
+        <use x="200" y="280" xlink:href="#p" />
+        <use x="220" y="280" xlink:href="#p" />
+        <use x="240" y="280" xlink:href="#p" />
+        <use x="260" y="280" xlink:href="#p" />
+        <use x="280" y="280" xlink:href="#p" />
+        <use x="300" y="280" xlink:href="#p" />
+        <use x="320" y="280" xlink:href="#p" />
+        <use x="340" y="280" xlink:href="#p" />
+        <use x="380" y="280" xlink:href="#p" />
+        <use x="400" y="280" xlink:href="#p" />
+        <use x="480" y="280" xlink:href="#p" />
+        <use x="140" y="300" xlink:href="#p" />
+        <use x="200" y="300" xlink:href="#p" />
+        <use x="260" y="300" xlink:href="#p" />
+        <use x="280" y="300" xlink:href="#p" />
+        <use x="440" y="300" xlink:href="#p" />
+        <use x="460" y="300" xlink:href="#p" />
+        <use x="480" y="300" xlink:href="#p" />
+        <use x="500" y="300" xlink:href="#p" />
+        <use x="520" y="300" xlink:href="#p" />
+        <use x="120" y="320" xlink:href="#p" />
+        <use x="180" y="320" xlink:href="#p" />
+        <use x="200" y="320" xlink:href="#p" />
+        <use x="240" y="320" xlink:href="#p" />
+        <use x="300" y="320" xlink:href="#p" />
+        <use x="320" y="320" xlink:href="#p" />
+        <use x="360" y="320" xlink:href="#p" />
+        <use x="380" y="320" xlink:href="#p" />
+        <use x="460" y="320" xlink:href="#p" />
+        <use x="480" y="320" xlink:href="#p" />
+        <use x="500" y="320" xlink:href="#p" />
+        <use x="520" y="320" xlink:href="#p" />
+        <use x="140" y="340" xlink:href="#p" />
+        <use x="200" y="340" xlink:href="#p" />
+        <use x="280" y="340" xlink:href="#p" />
+        <use x="300" y="340" xlink:href="#p" />
+        <use x="380" y="340" xlink:href="#p" />
+        <use x="400" y="340" xlink:href="#p" />
+        <use x="460" y="340" xlink:href="#p" />
+        <use x="520" y="340" xlink:href="#p" />
+        <use x="140" y="360" xlink:href="#p" />
+        <use x="160" y="360" xlink:href="#p" />
+        <use x="180" y="360" xlink:href="#p" />
+        <use x="200" y="360" xlink:href="#p" />
+        <use x="220" y="360" xlink:href="#p" />
+        <use x="240" y="360" xlink:href="#p" />
+        <use x="260" y="360" xlink:href="#p" />
+        <use x="320" y="360" xlink:href="#p" />
+        <use x="360" y="360" xlink:href="#p" />
+        <use x="380" y="360" xlink:href="#p" />
+        <use x="440" y="360" xlink:href="#p" />
+        <use x="460" y="360" xlink:href="#p" />
+        <use x="480" y="360" xlink:href="#p" />
+        <use x="500" y="360" xlink:href="#p" />
+        <use x="520" y="360" xlink:href="#p" />
+        <use x="280" y="380" xlink:href="#p" />
+        <use x="300" y="380" xlink:href="#p" />
+        <use x="340" y="380" xlink:href="#p" />
+        <use x="380" y="380" xlink:href="#p" />
+        <use x="420" y="380" xlink:href="#p" />
+        <use x="460" y="380" xlink:href="#p" />
+        <use x="500" y="380" xlink:href="#p" />
+        <use x="120" y="400" xlink:href="#shield" />
+        <use x="280" y="400" xlink:href="#p" />
+        <use x="320" y="400" xlink:href="#p" />
+        <use x="340" y="400" xlink:href="#p" />
+        <use x="440" y="400" xlink:href="#p" />
+        <use x="460" y="400" xlink:href="#p" />
+        <use x="500" y="400" xlink:href="#p" />
+        <use x="520" y="400" xlink:href="#p" />
+        <use x="280" y="420" xlink:href="#p" />
+        <use x="340" y="420" xlink:href="#p" />
+        <use x="360" y="420" xlink:href="#p" />
+        <use x="380" y="420" xlink:href="#p" />
+        <use x="420" y="420" xlink:href="#p" />
+        <use x="440" y="420" xlink:href="#p" />
+        <use x="460" y="420" xlink:href="#p" />
+        <use x="500" y="420" xlink:href="#p" />
+        <use x="280" y="440" xlink:href="#p" />
+        <use x="340" y="440" xlink:href="#p" />
+        <use x="380" y="440" xlink:href="#p" />
+        <use x="440" y="440" xlink:href="#p" />
+        <use x="500" y="440" xlink:href="#p" />
+        <use x="520" y="440" xlink:href="#p" />
+        <use x="340" y="460" xlink:href="#p" />
+        <use x="380" y="460" xlink:href="#p" />
+        <use x="420" y="460" xlink:href="#p" />
+        <use x="460" y="460" xlink:href="#p" />
+        <use x="480" y="460" xlink:href="#p" />
+        <use x="500" y="460" xlink:href="#p" />
+        <use x="280" y="480" xlink:href="#p" />
+        <use x="320" y="480" xlink:href="#p" />
+        <use x="360" y="480" xlink:href="#p" />
+        <use x="440" y="480" xlink:href="#p" />
+        <use x="460" y="480" xlink:href="#p" />
+        <use x="520" y="480" xlink:href="#p" />
+        <use x="280" y="500" xlink:href="#p" />
+        <use x="320" y="500" xlink:href="#p" />
+        <use x="340" y="500" xlink:href="#p" />
+        <use x="380" y="500" xlink:href="#p" />
+        <use x="400" y="500" xlink:href="#p" />
+        <use x="440" y="500" xlink:href="#p" />
+        <use x="500" y="500" xlink:href="#p" />
+        <use x="520" y="500" xlink:href="#p" />
+        <use x="280" y="520" xlink:href="#p" />
+        <use x="300" y="520" xlink:href="#p" />
+        <use x="360" y="520" xlink:href="#p" />
+        <use x="400" y="520" xlink:href="#p" />
+        <use x="440" y="520" xlink:href="#p" />
+        <use x="460" y="520" xlink:href="#p" />
+        <use x="520" y="520" xlink:href="#p" />
+    </g>
+    <image x="400" y="400" width="100px" height="100px" xlink:href="twitter.png" opacity=".9">
+    </image>
+</svg>

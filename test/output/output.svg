@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+ <defs>
+  <linearGradient id="myGradient">
+   <stop id="stop0" style="stop-color:#F60;" offset="0.35"/>
+   <stop id="stop1" style="stop-color:#FF6;" offset="0.95"/>
+  </linearGradient>
+ </defs>
+ <rect x="0" y="0" width="500" height="500" id="rect2" style="fill:url(#myGradient);"/>
+ <rect x="220" y="40" id="rect3" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="260" y="40" id="rect4" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="280" y="40" id="rect5" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="220" y="60" id="rect6" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="240" y="60" id="rect7" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="260" y="60" id="rect8" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="200" y="80" id="rect9" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="220" y="80" id="rect10" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="260" y="80" id="rect11" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="280" y="80" id="rect12" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="220" y="100" id="rect13" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="260" y="100" id="rect14" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="240" y="120" id="rect15" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="280" y="120" id="rect16" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="280" y="140" id="rect17" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="200" y="160" id="rect18" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="240" y="160" id="rect19" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="280" y="160" id="rect20" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="200" y="180" id="rect21" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="220" y="180" id="rect22" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="260" y="180" id="rect23" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="280" y="180" id="rect24" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="40" y="200" id="rect25" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="60" y="200" id="rect26" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="80" y="200" id="rect27" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="120" y="200" id="rect28" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="140" y="200" id="rect29" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="160" y="200" id="rect30" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="180" y="200" id="rect31" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="200" y="200" id="rect32" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="220" y="200" id="rect33" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="240" y="200" id="rect34" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="260" y="200" id="rect35" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="300" y="200" id="rect36" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="320" y="200" id="rect37" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="400" y="200" id="rect38" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="60" y="220" id="rect39" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="120" y="220" id="rect40" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="180" y="220" id="rect41" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="200" y="220" id="rect42" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="360" y="220" id="rect43" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="380" y="220" id="rect44" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="400" y="220" id="rect45" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="420" y="220" id="rect46" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="440" y="220" id="rect47" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="40" y="240" id="rect48" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="100" y="240" id="rect49" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="120" y="240" id="rect50" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="160" y="240" id="rect51" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="220" y="240" id="rect52" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="240" y="240" id="rect53" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="280" y="240" id="rect54" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="300" y="240" id="rect55" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="380" y="240" id="rect56" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="400" y="240" id="rect57" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="420" y="240" id="rect58" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="440" y="240" id="rect59" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="60" y="260" id="rect60" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="120" y="260" id="rect61" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="200" y="260" id="rect62" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="220" y="260" id="rect63" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="300" y="260" id="rect64" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="320" y="260" id="rect65" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="380" y="260" id="rect66" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="440" y="260" id="rect67" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="60" y="280" id="rect68" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="80" y="280" id="rect69" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="100" y="280" id="rect70" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="120" y="280" id="rect71" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="140" y="280" id="rect72" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="160" y="280" id="rect73" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="180" y="280" id="rect74" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="240" y="280" id="rect75" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="280" y="280" id="rect76" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="300" y="280" id="rect77" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="360" y="280" id="rect78" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="380" y="280" id="rect79" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="400" y="280" id="rect80" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="420" y="280" id="rect81" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="440" y="280" id="rect82" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="200" y="300" id="rect83" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="220" y="300" id="rect84" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="260" y="300" id="rect85" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="300" y="300" id="rect86" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="340" y="300" id="rect87" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="380" y="300" id="rect88" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="420" y="300" id="rect89" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="200" y="320" id="rect90" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="240" y="320" id="rect91" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="260" y="320" id="rect92" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="360" y="320" id="rect93" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="380" y="320" id="rect94" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="420" y="320" id="rect95" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="440" y="320" id="rect96" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="200" y="340" id="rect97" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="260" y="340" id="rect98" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="280" y="340" id="rect99" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="300" y="340" id="rect100" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="340" y="340" id="rect101" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="360" y="340" id="rect102" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="380" y="340" id="rect103" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="420" y="340" id="rect104" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="200" y="360" id="rect105" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="260" y="360" id="rect106" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="300" y="360" id="rect107" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="360" y="360" id="rect108" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="420" y="360" id="rect109" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="440" y="360" id="rect110" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="260" y="380" id="rect111" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="300" y="380" id="rect112" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="340" y="380" id="rect113" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="380" y="380" id="rect114" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="400" y="380" id="rect115" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="420" y="380" id="rect116" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="200" y="400" id="rect117" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="240" y="400" id="rect118" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="280" y="400" id="rect119" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="360" y="400" id="rect120" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="380" y="400" id="rect121" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="440" y="400" id="rect122" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="200" y="420" id="rect123" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="240" y="420" id="rect124" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="260" y="420" id="rect125" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="300" y="420" id="rect126" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="320" y="420" id="rect127" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="360" y="420" id="rect128" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="420" y="420" id="rect129" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="440" y="420" id="rect130" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="200" y="440" id="rect131" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="220" y="440" id="rect132" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="280" y="440" id="rect133" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="320" y="440" id="rect134" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="360" y="440" id="rect135" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="380" y="440" id="rect136" style="fill:#000" height="18" width="18" rx="2"/>
+ <rect x="440" y="440" id="rect137" style="fill:#000" height="18" width="18" rx="2"/>
+ <g transform="translate(40, 40)">
+  <path d="M0 0 h110 l30 30 v110 h-110 l-30 -30 v-110Z M20 20 h82 l18 18 v82 h-82 l-18 -18 v-82Z" id="path138" style="fill:#000;fill-rule:evenodd"/>
+  <path d="M40 40 h30 l30 30 v30 h-30 l-30 -30 v-30Z" id="path139" style="fill:#000"/>
+ </g>
+ <g transform="translate(320, 40)">
+  <path d="M0 0 h110 l30 30 v110 h-110 l-30 -30 v-110Z M20 20 h82 l18 18 v82 h-82 l-18 -18 v-82Z" id="path138" style="fill:#000;fill-rule:evenodd"/>
+  <path d="M40 40 h30 l30 30 v30 h-30 l-30 -30 v-30Z" id="path139" style="fill:#000"/>
+ </g>
+ <g transform="translate(40, 320)">
+  <path d="M0 0 h110 l30 30 v110 h-110 l-30 -30 v-110Z M20 20 h82 l18 18 v82 h-82 l-18 -18 v-82Z" id="path138" style="fill:#000;fill-rule:evenodd"/>
+  <path d="M40 40 h30 l30 30 v30 h-30 l-30 -30 v-30Z" id="path139" style="fill:#000"/>
+ </g>
+ <image xmlns:xlink="http://www.w3.org/1999/xlink" x="300" y="300" id="image140" style="opacity:.8;fill:transparent" width="84" height="84" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAH9NJREFUeNrsXVmsJFd5/k5197135t7x3BlmbOOVxdgGQzwKoIRISSY8AIkw4yygREoiK4qSPI6RiHnIA6A8RCHC8xYJZZknFEESxcEixErCoIglbDEkJpjVYOMdz70zd+ulzp9zqk5V/WerrurbNeOlS1PTfbtP1/b/5/+/fz2CiLDYXrpbsngECwZYbAsGWGwLBlhsCwZYbAsGWGwLBlhsCwZYbAsGWGwvja3fdKAQovFB//g7u6cIdJIIJ9WfJ9R75A7H/DV/S+Y1+9R8TuZv/XXuoaRiXOgz67fVMatxzjnZeQoHqHssRL4vj+lcR3Ee99rt66nObd4Fzl+N5deh/j2o/j+nxp37zzted19TGjT18IrGA6cwwD3f3T2sXk6rw51WF76+1hc4vpRgrSfQE/aDKghCMDcvq/dkPfT8ccmSwMje6x/k3wv7eIxY1jkCDCILojsPvnxPzvWEzuHek3kvHSaR/PzOM5Ch45jfperN3lhiazzBcJLd84b6/Iz6+szn3nXb5vOGAd7/vb1T6jhnFa3XbzjQw8tXBJYT4c1Qj1jCfrgIPISKCPkuc6qZh8y+Yzct2SySQQYpjoNaYrq/lSUTxolWETXyW2mu0WEm6dxHwTQk8zGjVOLCcILN4Rjq7Yb65q7Pn3r9fZeVARTh9aw/o45x1w0HErxytYe+gDUbqsNHxGWEQNZshHtM+zvpjLcZxJ510hG3EjYDynIcMYlTEURSiOBm5hM/hk9ccMIGrlEyaSOLZyOr8+ptog5wfneEzb2J/vaslrpfvPMNm5ecAQzxz/VAJ267op+Jez579GXrX4j8LOYJC0/3FzO2+EvWiuLq5vKHLGwmsghr/1ZyXe4S04wvHrJkM88iFCO4tMQ4JxZlxymYwCKyNGMjx+Hji88LNWUzC2FrlOKZ7aE+xoPqq5P/9as2E3TKAAXx1Ww/8cbDPaz1E0sEJ4z4whBAsO8FYkALjmhlxNcPTD9gwYkDh8DFwxTljLQljCumYc1IdxYW4yqikUUc6agKyZizYC7JJEJ5HKqYJo1IE3JUgHSkmT7+SOGCJ7eGSiVQxgRf+rWf2mzLALOagWc08d9kiF/IdoUBMrOCv/bU60C/Vxet1UNfCPO5yN9n40T2d/Y52/uJyL8zx+mb4+bHUZ8lsL8rf0vlZ8WxEuSfJ4ZB9fcJG5+Yv/V3iXkwAuzzbBcQ5avaNStn/4pXm/H1WCHyz8woxtBcPSJotVAUaxgTTj2A46vL+jwnDDhsvbWWAAbw/dOJw4XYzy86MZI+0TdMMA+qOAm4HChvwNLH7MZ8EBUCcfG/rVmdzZbKWuA6XPIxkolz4qKcHdfMxpTNfF8KmN9RdT7J1E1KVEqBNCJxuM6XklsWtiQqxu0YdaC2O7/y67ff15kK0KJfjX/kxgPJ+s2H+iXHZrOLcm7PZ5EoZ09FeJu7RQzpw+f6glFkhPgV0WWGC2wwZTOSjADAlOGB1DXTyCYMB32h9wWROdElO3/KGIBCwDDAdJJ8M5b/9vzOCBeHY2Ud4BVf/Y0Tm12pgNNKrK6/SqH9EujpWa/3pFABWrRTrgL0+2wvxLIo91w85uI0MSK6ELP5+1x0Ft8JPgZsnGGvxAjZ4n1ivXfHGfGMCtdUYpuqMUSWOAc7B5tCXIhn//hRSfBvmVPL8gvE/CAE5n1ycI89/oqVvr7Gde2H6cwVrE50+oaDvUx3F8TPdHiS69SM4IYRCt1aEo5EDg4FMV3J3ovq74oggo2riJTw31mfg1kexTEr9SUYsQtClWNsa7U8BjNZwLmlYANBxbHJ4gOHJwyar3S9DXBtZxVQNxZBRtBXsLbU1391wwD3fFe7d7F+zUpS2vEinybljNOMIMwMLz8riCNyVSDIJhrTDsZMNA+T+EMVDoGEPfFsTwN7cha6inC1q+uc2cy4QzBm4JPT5o+KWOBubPvqyt/xH1PAdewT3baewPwsBwaZZF4/8fH/PtWFBDh5SE3rlaQiS2KQfyGy9SzvoULS1bOrAKChMZgnyKOF/5BsGnqitBK4QfpS5Pjgx7H4hoJoPeTAApHFfET+zOcXQow5XSdYnbs8ZglwE7aXJBj0sud8cu7BIB3YuXI5Ke8oI25SIH8z2wUXs6J8wKJAtaKE/s4EJeYk8mfKD3cn+Ob2GNtp9YBfNkhw88F+9kqxhxmQDkHi81kbMskCTOExGAVmcpChybqWqAeUEdafIeQ7v8z4lX5P+wc6YADQibV+xdUClbkHwfUvWcR3UX6JcgVKTxeM48bVm599boi/f2oXA/WrNx0UuGZQmiR4+CLh408qeafE3h3HV3D7Wt+dbLY4jhLcdld7swuuqHekADfjKEJ8Nl5ywRfCAsxtzJnRC0JFxvd7mRw8MXcGgHGs2HINFRO47OIQg7jL1xGTrr/+B2rG/+Wj21imFO+/UuCXDiUGL4jytTBN//m8xIcf38bnlDT43asPYKUnbAgQ0puoiRQ6DxeBeAJH8O49kovwCb4r250MTljaQvye9LFjIyCbcQVEPeaZFQNwnQQHfQsHgnku3tKtawIm0SAP8Igi/oe+dxFvX03xsVdo4ivV0uthsLSEJbYP+n1leiZ415EEn7plgKMixb2KaXbSMPP50iiQm+CANfvhk09cR0zbTOMzA1ymA8HDrSFGDDjCKuzh4gVCm1qvVmbgkYFwtJ/PJIJ72coHKcxFixKq2Q84v+jtVOKDivjvu5LwB8dERuCVlRWsLC9jmTPAYIAl/Zn5/LCa9WduHOCnDwBnFBOQA9hcgpCDDsh7Fwentoh3QsrkqAmKuXPJyyHwpAmFfQPWjA94SZd6vW5SwqwbIT/MW6B87smSRcSr9HBxNyl5D+IvHtnCW9cI77wCGfE1gfVM7yuC99Wrfj/Q79WefW6+08yg1cGfXj/AmuLATz07DDpVLI9gKHHEkkjM08aIOU19SGdGhn38fJJM8f2TLSni6swOos2fAeDr/wr8UNB0kTxDhomo7LfC/s1DW2P8SIn/9x53iO/sWh301V68FruWDFk62sv7+OzGELspRYBcQEVYotVOQ7NUW0gsw473h81KOz7BxIZlCbkpYZb7PJZJBHs8EbpSAYwLGSOQcGeVCWEGblzyByxtUPTZ80P81jrhkJJgGeE1kQ3BtX2b1Ow9wxB6f/NagtsOCHxja2IDQXItKQetO4DLy9GzMAAzx5hulxHEL7ntHpQ4tvfPVSsxb2HxLP1cRHQEAgMuSVCVCJHftMxFvxH3/ClXf+Z+Wv5Av7I5xi+u5ci+HyG8KMKwQgQZQTOO3k4d6eF/tidmZlAgj49sMyzkXw8EnICYW9YBf2Qnc8A7Lic2hSOe7vGD4ylqtXQTC0DIO8WSNci/Uc0MKZ8FblRO7VsK/O2oATcvI0jYWD5iwQjZq2YM8/7WAwl+PExLN5Q307k+RSC6SOSIUrJmqgwGdkJRykBmk5M4SgFHVYgREDRVQ0mpHaWF8wtjwd3sRoSoLl6w2S5DOtdCu/kV/3A3VQjeZBNpIrLZ3jRUzfdbVwTOT2yiVeK6ShYF2WKZz55wPgK7J+KgjOoTOFwtSi7YrAGDREEawE21p4j3cG6OIKKgeJImbJp5A8n3fAW9cxT63A3LikZMYBGfB/BY2riMmIGWZ9DKGQg5hCiK+L0aAXJ9BhUzyphHL6Dfbd9KPBEWXiCKupEAXvqScTpJUc2GxCDDHOU7ul/Yx5KhYxdEb1GIwn/Lf+cXpJDvgGJyU1LgmrnZG1ETIdsdnnXETeSG+j1iHvLZEwaJXVgB5HsFU/J1l2v6Sbi+b7AIvy8BvKhsG+JHvJcyqi/9AI/nd6eIGQhblbmOGQm7RsHNLHYtE9f0JAo7gBAEiwEJ0kEwiPmbbQlQPiIRiJGTb4uHPHX72iLSwjpPKKOGEC0v4+FbC7B5mKY6jnRMRekGhKyQb1hFuhIBQLjABpEKpq5UQMB1nV+ACNPPnSH2/XBOrrngpiAQTlZPAL0Hy7rgFob4TivbvPPVB1G4rpGXnkliia6OX6Csjgp4ISkkYSzGtRkx4Kubaz6ADWy4riUXfRVkFh7yR8Bk6apRXcymlyE9TlWgqgBuPJHTUx8Os0gK3R/ZxA5ERJsg/pi5Z6uN8GcdqAAqVUAG9AwXV3JL+IBBhHPj4DpF5s0ABC/t3A7UxKOE0pv57HOEq5M9F3GomjkEHlGP+P3YgBu1pGCN5JzNQEcKOMBHCFu8Vz8TpafQ880HTZl5MoBbDlbn9atmprTLsyPWQyALybLFnToEpgJ4zQIoVn3sI34EzVa/5rIzR5CFQotZLQJqQISzZ7x8uhhoncUEjFyzJAqbVaFKXI/owgm6BHz8vNwsIE0kN3spJOrDMxnTqpcR75PQiQrgF8T1OweDCbcQHNBHjoMGAS6ePwYgO2IXSuYIJIhIKwkkkvwR8vF7kU8u9n3Rz0PNjRA/3FL6SIi4SxDI/9cPqmcqdAWxPD+u8z3dFU5k2PcWcB59f09O98mHCkeLymOWxeSXnIEVf6IsSpWU10EeMhJBOowhKZT3R55FZFc9x0vkyA3Pd+kJLC5IcNHFPH6lK8CyGESlXwMmS1uRVWsKMgZ402qCh7YnUzxLbpWPcAYndu1C0NYU3kePDFM8NpS4UuT71WVHk7D9Lutme0RKUsDHQDOA6paxgGrmJySMD4BKrx7HBHAdLQFz0vXJzz75hRc7+NtXL3mJpNZr3XeBsSVzNRijXzcnhAeeG+LeH24phkhwK8ZYDXi+4lk98JtrRPCA24sI3UkAJrYEu1DmGhSuU4JztYg4LuYgA4rQsM4kmiRJ3L3chAFi3zvnA/zGGcXfh/sC77nqQLbf+6NtfEQxws00wpWY+CIdfhQyhviDeCDgMOrGE+gkUOZ6XzDxVFUCW/rMROVADYof9sEAOoFE6JzBXs/y4yNCxOh3M4zN/CPBeAThvTeu4S2Hl/DubzyHJSlxRVbFTEEXMZqEiC03ut+xDN2oAK5zNKgxFb6m2ZNw8gVsMCPD8QCiuWEAN0GkVWCkjuANfzMtbP2W9SV85JbDeN+3CG+Uu1kJXWwG1zbLilgCboyhE0/gWOa1gBbqFAboGRkrSndnoHAyxt1zNP04DujEvJzCLO45+bW85+qD+Ndn9/C1ZyZ4tRwFK5Rc9WDVHpKL+CkMsLsyA58b59b/srqnAz2lb7Py76Sa8VS0hqKAGnBAn1Uo2Y0fQMzJoTTrOTkzFFLpgzddgZ/9yRA3KAboOQEgFx+52CtkygJ2o6tuHUHGJt5T+4QkdtS9DpSZo2tGByLfE4Qzbay6u1Cly4twExY+yqXj9St9vG61j/MXeniZnHi1EYg0irAxk9stZXaHWqu6gJB3aqL+0zn4F5XZc15JiI2xzCp8hgrsTCQLhlCk11+H0cDnCxO42zuOrWBbJBYwjiH+4nvtQNLPU7eXmQCsFR0st6vrap5vMMgx32TWEEpUZqDQDCF027JMSuQ3IPMeAqYzWM847Lws3Rc5E3Ci3LY2wA56jugvMohyKZsS2b2LEGkdU+MZnDsILE7Ei4SlIX7ClLubKDmWLvPkLWWK9jFjiZfUdriflM2kMmJLqnoGhhw9dmDFRvzRcrKOYgFVgmeRBs6AXVEZyjg+1gV8zMTVbvrS4oBH99LsuY1Silf/hnz8DZNFu0sJs6SBKMPC0nQJoTIWEG7AUHXx9M2eF/Pm6mRdB7ki05okjnjwKuYbwIxAsJ0r2DXrBJnQbq67jEug6gEY7P8fDsW+FIhfqM9PP7uHg+nEg7/RgFGsSQTCtYHUTVo4BfviS/LToiXgNWEuEiaKusF5u4JfCDNfb5/fGOKp3TEOyklElEfayAFhPECRvgXdSYCio48J85q8wCI4JIq8/1DItyaN6lIRoGunUuycZPLm7v7WJo6N96b3A3alYySJtLaQdL4gkIIFDNL0BOQuSxHoleclOxBFOnbsn+g8h39esYCSEA3jBiFGuPtbG3hmd4RXTkZTU70aIf4Yk3TjCbRPUCROJua9EKww1GGaUJoTMP+k0MxDJmW2k+tDDxEuRsw5RA5dN/DdD2/iH57cwU17W7WIH7F+gdFkUX88urIC/Fh1IdoqIgtmBrpFFUCkkoXmR/y94RCT8bgKTAthM8B+8wGa/sYQXiP+9377Ar53cZgRX7hh6n0i/romkvP3A7AZnJS1faxGzAKMEaIj3DNnHgyQKgYYK+Knk0mjLJ9GY5gEaYQT1NgvXBjjsT2JTzy9iy9tjHB0MsQrR3u2dJyG+Kk54g9J1w4kQJVwWDT8TMpwcGXjVPkAfo88tySsYg7aN/HztjOV6H/DN/YuG/rXNv6AJA6lY7xmMkYS7Qpag/hD+r1p2Ri6kgCBrpqZE8htDgG/KSJFK1vnYwWEjvOeNXLWDQgs+cIXfeBr+bBafmsBCGtxCaq/P2qW0hUDc4j0HAiPrw7WSTDI7lZWOYCE4Emh5OGFUFcQLzt4LhzgO8Ht0Cn56/vAqf9DtaiTR3yEiY+WRRxzR/yxtRg7UwFMxOspL6nqEYyg+5ec5WB8BpEdOQJ4Nw4Z6BHoVfbwZV2YJCgZQfpEaNbZuz7As//x/oqlHYFA1iNAFIg/3p07agZ6jZo6qgwit5TLLujgVb5cxFfEl9V72Uz/xhazdC30Noi/eUCofWylP4ueFYUY1WhZkonvh1LCEW6yjNmbGrWSAJElWiWrAObSgGMDm/iBLiHUroijK8Qfbi7ZkSewFHtOSXjpChC288Xr00u+A6jLjCB/JS4bC0iaTvyY36J9EUeDAM8siD+EQajLWAD5CzoIMEoXxA/U/km3WJQiWSxzEgnlaqCu3s/AnL96p2RuZBlY0att2Xb9LA8HeGp9/LArh1EjQbrzBDKAlRS5XcJf2aJuVQyLGbpUAeQsBI1qKTYJuyWcZBZDuVZf00ZNMyL+qH5H3XiKryMwQ6vYdsEgdsFCMI+eNI6yUCsYRNbDocAs6EAFVB25mcgHvGVds/y7AHDE8xXxg2oqhrsKBsFP7BAeRhCwF2OK1bPZPXu6BIH+4o9FQEtWYJCv0dukL++Usu19pXS1RPyehOouH4CdKKOz5L1hKkVBfvAo1nq11gxs6IOPMoCEvWSsZdtThPjxvoBNEH/jAA/QLsCD+tpAdJ0U6gV4eA0QmUJRkIfjQqJeeulhc5jugbaylg/ABYHkLyUbRvB06RE/NUP8dRKq6dauMASBbliSrDSwaoUQvsN+4Ez/6td1dRVf27Xr+dryRBHF0xXCertlReApmS8pl4G+wJq/spWopXaIv0FKVxTxox3i99Ye6KpVLA/jhnrtV21Q+Owi5pOnqqKFieABLziVsrU7s1xDQK81MBhkjPDWwz08rRggzdYvYEwnm8XevcrWhmXbrVK6gnERaoX4QxKnzdZuyZiAZ61aLj3kdIG1qrbVtKksbZJlX92L0l+DpzUTmDUGfudYD9tJD+cpqa6hMPMi0mzeiL9JEYcrETBV/9ctL4PW0rPVkjEu8JHETSwqF4fyllSnvOpFz74iqCJL0Zy/P94DvjNEntLFCwnbMIEhvl4/SC9ze881AzyEJWwVbeMRXkjq+Yn4400g630S1GEwKHLjIdfv9ICQfZxVpQa+rRjgjQeJtVWjaOeNkATIKpO1GtDrDPb7uPOo/mIJf/KowHU0xtUY50ksTvQ4pq9jrVlbp3TtC/FjuoQifwWXDsxA8lK64EYDvX4AokL+iBUw5DdyINEMkBN6MplkBJyp3Fn3B1K/01JA//rOowKvVQf/s8cTfHlrgEOU4mBWsEp+21V3rUCi4BKwQJjZ+fhBOsHyeOytWTQL4q+VUJeqNtBfPcm8NW7Voi4Alo9f1ug1+4EcS3IJkB0yTVtLgEIK6E0vOKWB4Irax4qZXivGOHtTD4+PJH48gmKEtDIdXVOy7u+GY/R1fGFzhC9ujrEyGuLQ7jb6k7Q+wFOH+GMSKoYpui4MCS35QpLiKWBOKxQZCBgdVQzwhZ0Ej48Frk/SKjAzKxMkSdk7UKsEzQjXJxLXLhN+5lDPJl4HbeLuxiouKODz1z/ewb0/WsbazjZWd7ZrU7pq1wquCSk7y1t1nQ9AkfAu/C4XgRYxoTWDi2NrKfDVHeDagcykgFSEy2oOWzBASQjtE3AsAxdb1KaMxxjA/S4iAfT96FZxukOYbghx98N9fP8nCa64eKFRSte0srEgBrHURxfBoCZty6wFFOtXwnJv9KqexP0XerjjMDAcjfKFI7VfYAZ3cEGcgvDaQgAnPqy+1vtuExc8vzm2bgjxiduP4t1fB36g7md1a2tmxB9NMpkxNXwmFYBANmrT8ChqUqSvTAif2SU8odTAtUoNpEYKlESchRGMFChmfLDz1hzaxNWaT8ibQvzN64/gbV9JMRoO0R+N6lO6miL+iGTtxBMYRKOxAE8N4o8xi9bM1/YIH/1J/r22BjImcMq9ZgsVVN5Cvthkph6cVrO1e7GgZc2Y0Hn1dt1KH79/3Sp2VtfqU7raIH4vptLuGbXwBFI8PanGiRFzJMWY5UY18+9XavLxMWGkZolmgHQODBBjiNZ7y2O74FQzwMEDy0gzlYTpq4Fhuuvaf8ZdLx1LfkrX1ITIae5Qs62o/QbFBB99Nh87MqVesgMmuBSbxQRGFWhQOF5enpoUOg3xe9HIrtcNpAjij14QUBM7pyiTvEoxwKcvkLIIKKv1m6cquNxMAAMKJ4NB4wBPHeKPrTbWkQoIrG0/ze89LUU6ICE0FnhtMsEHngAuKls6q/hVTDBJ05IRXshtZTQDyKTXOMAzVf+7RKcu8gFmRPy1CROIpz0fE4rIitgfeCLHHrt7e6UksHABXrhbO6sqhrUouLR9Nxhgjoi/SXj0JjHBl7ekYgKZ5Qns7u7mKoFLghegNNA9A0SazgfxR0rwugsGzRHxB6Is1ngtJG8XI/zH5lIGoT54Ta4OlvUYnfhh1gVI2HLzl6NBdBMnmssAiW5iMRfEPx1Yzy0YNG/E30QiaDzwBhRMALzvKuAQDTHQM39pKQv89IynL3GY4PnADG6buAsTmbWJ6yuVNg3xhwI8zZ5xx4tGNUX84WCFewNTSqAMKHy9IvrnNpbw8F4PH7q2h1swzlTAkkbT/X7uLXQkwTwZoc0xQiqp8ET+1WPb2NrZw8pkMhXx+wC8oVXVVSwgfEFxxO9bChHujZhCHBxpJrhFMcHju3385veX8IfHE/z2y5Q0UEzQM/kDWhoUkoCrhakE7KBLWOi5PbY3yRhgcPHi3BB/OLegqyZR80D8FI8qOqlEwUqYqzHBejrBx55exic3evij4z2cOiqy4FG2bpBWCWafqhI67BLGCaS/31Si//f+9zx2Ni9ioHDM3BB/YHxHIBDYmaRY6SX7Q/xoWAKFSBq6zvbR0iDdw4XdBH/+2BI+/GQP7zqiJMKxPq5dSrNQ8piFgXkcoDbJY87h4OJzvX6hbhP38DMXsLy52aKWMEzcuvHaa9r5uoGzEB9TTBdqwUTFfzq96+Z0FzupwL88vYS/ezbFVUt5SvibVxO8eQ24ok+XfN3AYtssE0KU2L+giF+I/kbmXrDadvozRocSIPVYqx3in8U3gAbh0RX17vrJHq5Tr1vjHh5QOOEfRQ87vT4OJcCtBxIc6ue5ga3E+RxSwnq7uzigCC9M78L5I342nkyhDrrJCn5wOKETB/tzRPwR54eXd9iiiGNVJ30qjHDcjB8pYjy1k+BRkeDrZT5APJnTbYblOeoCph3IH6vt/NVM19PUsrE2iD86vux7kOUePtgBCKRzW+PJifWVnp3VEw1WNED8CCP+2vEtizj6eqk7SKxEZk9bL+X08e2KOOoDPBQMtYXT1k2Dq3FmXp7rwhV8TkkAjFO/KfnUAM+0EqgI4g/5GGrdp5e9bLttEcf+Eb/1DEx8BC0YQDT1o2u99rYHvnP+yHJ//chKfyYf/9QiyiZ5hDQ9J95boTxEoLoijiZ5/BRiulgzrGnYh2ZA/P49TZTKGQ+HG3j/HUea0rVVMEid6czGcGJWsmoYDZx2I1OID9fHgCYFES2Jj/mVbXcV4AlbVbxxF2EyGum/zrQhaTsGUAdXKnXjud1JvfNhH9HAWRIim5Vt47KXbU8v4miH+Ln/RM9+9ZuNThnggbe/ZlOd5C4tBbZHaQ3ip5kQP1oifj9TqZuy7VZFHHNC/NQA8RfjNfAzs/8uJf43u5QA+Ld33HyfOvPZp3dG2EtlBPFPKYGKIf7oKtmXt2x7tiIOapnSFbLe6xF/VoavvZ57WWf0s4r497WlZ2sGMNtpRfsHn7g4wjCVccQf1Ks1iB+YsWybnpdl240DPEHET/WI3xB/tLOjx2q7//QshJyJAf79l2/RYuakAoOKCYbYHqdRH781ezy9GkP8fopTfdn2/Nfe66RsuxXirz9/Oh5z4p9sK/r3KwHwmV9RTEAZE5x9emuE53ZHVU/dy4D4o7NtH2vv1UmcS4f4HeSvnvFEifzR7q7+7Ox+iN/aDxDbfuH+/zulLyYRWF9b6mN1KUHPrI7dBPG3sZdbgb6a9YnCTELR1qy16qapj4Ha+fg502kXr14LaTLMSso2NBiv0/mN6ToPBtDbz3/ym4fVkU6r42ldtD5Q3LAySDAwZdr6ZpZ0Dt8MrVb305q1dtXSRuPDnU2b+Bhq0+Zr6iYnJqSbtd5JNeEnhY9/g3Iz7wzd887NtllJnTIA337uvodOqVs5qVWEej2BqK6zZ0Qoagh3vcLAsYApx7cYKbacra++QgtfoCYUDsSOH2qTE+73xxfmKIJw6pNz6sNz8p53Nkb5c2eAxfbi3JLFI1gwwGJbMMBiWzDAYlswwGJbMMBiWzDAYlswwGJbMMBie2ls/y/AAFxaD/9GAEkFAAAAAElFTkSuQmCC"/>
+</svg>

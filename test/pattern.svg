@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="140" viewBox="0 0 140 140">
+    <desc>Eye Pattern</desc>
+
+    <g fill="rgb(0, 0, 0)">
+        <rect x="0" y="0" width="140" height="140" fill='transparent'/>
+        <path x="0" y="0" d="M0 0 v140 h140 v-140 h-140Z M15 15 a150 150 0 0 0 110 0 a150 150 0 0 0 0 110 a150 150 0 0 0 -110 0 a150 150 0 0 0 0 -110Z" />
+        <path x="40" y="40" d="M40 40 a50 50 0 0 0 60 0 a50 50 0 0 0 0 60 a50 50 0 0 0 -60 0 a50 50 0 0 0 0 -60Z" />
+    </g>
+</svg>
